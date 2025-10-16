@@ -1,8 +1,8 @@
-# 📅 SCHEMA Måndag 5 januari
+# 📅 SCHEMA Tisdag 7 januari
 
 Övergripande schema över dagen
 
-##### TypeScript – Intro Översikt TS vs JS, felsökning i DevTools, initiera projekt med npm & tsc, första enkla exempel.
+##### TypeScript – Variabler & Datatyper Deklaration (let, const), aritmetiska & tilldelningsoperatorer, kodblock, scope.
 
 ## 🎯 Mål för dagen
 
