@@ -27,7 +27,7 @@ Efter denna dag ska du:
   * Denna övning kommer (EVENTUELLT!) att pågå under veckans eftermiddagar.
 
 ## 🖥️ Slides
-* * Namn-på-länk->länk-dit
+* * [Variabler & Datatyper i Typescript: Byggstenarna i din Kod](https://docs.google.com/presentation/d/1Gevii1EX2RGXQRl4zuqGrXsWC2XLhMNClMdIaM7VzC0/edit?slide=id.p#slide=id.p)
 
 
 ### Dagens Lektions Inspelningar:
