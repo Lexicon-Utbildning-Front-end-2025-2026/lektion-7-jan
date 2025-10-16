@@ -1,4 +1,4 @@
-# 📅 SCHEMA Tisdag 7 januari
+# 📅 SCHEMA Onsdag 7 januari
 
 Övergripande schema över dagen
 
